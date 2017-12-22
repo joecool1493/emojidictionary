@@ -34,6 +34,7 @@
                     </view>
                     <connections>
                         <outlet property="dacooltableview" destination="UOy-yL-dum" id="hf9-04-C2q"/>
+                        <segue destination="a5i-O5-oLe" kind="presentation" identifier="moveSegue" id="at6-Yq-UlS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
